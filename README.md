@@ -1,6 +1,6 @@
-#Prueba Técnica React Hooks
+# Prueba Técnica React Hooks
 
-##How to start
+## How to start
 
 1. Clone this repository
 
@@ -25,7 +25,8 @@
    pnpm run dev
    ```
 4. open your navegator en go to http://localhost:5173/
-   ###Trial
+
+### Trial
 
 The objective of this technnical task is to create a similar application to the own provided is a link:
 https://effulgent-melba-009e8e.netlify.app/.
