@@ -2,13 +2,13 @@
 
 ## How to start
 
-1. Clone this repository
+1. 🐈Clone this repository:
 
    ```
    git clone https://github.com/NachoVBordera/tecnical-test-react.git
    ```
 
-2. Install demendecies
+2. Install demendecies:
    ```
    npm install
    ```
@@ -16,7 +16,7 @@
    ```
    pnpm intall
    ```
-3. Run the project
+3. 🚀Run the project:
    ```
    npm run dev
    ```
@@ -24,7 +24,7 @@
    ```
    pnpm run dev
    ```
-4. open your navegator en go to http://localhost:5173/
+4. Open your navegator en go to http://localhost:5173/
 
 ### Trial
 
@@ -44,4 +44,4 @@ here are the steps to follow:
 - [✅] Implement a feature that allows the user to filter the data by country.
 - [✅] Avoid sorting users again the data when the user is clanging filter by country.
 - [✅] Sort by clicking on the colum header.
-- [] Provide a README.md file with instruction on how to run the application.
+- [✅] Provide a README.md file with instruction on how to run the application.
